@@ -1,3 +1,5 @@
+## **出于某些考虑，所有项目迁移到同名码云仓库，此处只保留历史版本，不再更新。请移步 https://gitee.com/felix-fly/v2ray-openwrt**
+
 # v2ray-openwrt
 
 本文为在路由器openwrt中使用v2ray的简单流程，相关的配置请参考官方文档，为了方便小伙伴们，这里给出了一个[配置样例](./client-config.json)供参考。注意替换==包含的内容为你自己的配置，路由部分使用自定义的site文件，支持gw上网及各种广告过滤，site.dat文件可以从[v2ray-adlist](https://github.com/felix-fly/v2ray-adlist)获取最新版。
